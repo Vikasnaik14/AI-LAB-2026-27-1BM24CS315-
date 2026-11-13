@@ -14,3 +14,6 @@ WEEK-04 (23-10-2026) Implement Hill Climbing algorithm for 4 queens <br>
 WEEK-05 (23-10-20206) Implement Simulated Annealing algorithm for 8 queens <br>
 
 WEEK-06 (06-11-2026) Propositional logic algorithm <br>
+
+WEEK-07 (13-11-2026) Unification in First Order Logic <br>
+
